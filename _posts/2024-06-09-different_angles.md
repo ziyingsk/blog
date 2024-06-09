@@ -1,5 +1,5 @@
 ---
-title: "Should the construction of AGI Be Task-Centric?"
+title: "Task Integration in AI"
 date: 2024-06-09
 ---
 Recently, I've noticed an interesting phenomenon: [multi-agent systems](https://www.crewai.com/) are becoming increasingly popular. By having multiple agents collaborate, even if each agent uses the same algorithm, the overall effect can be better compared to a single agent. Let's delve into this phenomenon. Each agent has different task prompts, enabling them to focus on different information according to the task requirements, thereby achieving specific functions.
@@ -8,7 +8,7 @@ If we carefully consider the structure of the human brain, we will find that the
 
 Think about the attention mechanism. Using [LoRA](https://arxiv.org/abs/2106.09685) to fine-tune the attention layers for data of different tasks can improve the performance of large language models on specific tasks.
 
-Based on these phenomena, one could hypothesize that a key consideration in constructing artificial general intelligence (AGI) should be which tasks should be integrated together and which tasks should be handled through collaboration to better focus on specific domains. Of course, this is just a personal conjecture, but from the advantages of multi-agent systems, the structure of the human brain, and the insights from fine-tuning large language models, it can be seen that task partitioning and integration is a very important consideration when discussing intelligence.
+Based on these phenomena, one could hypothesize that a key consideration in constructing artificial general intelligence (AGI) should be determining which tasks should be integrated together and which tasks should be handled through collaborative division of labor to better focus on specific domains. Of course, this is just a personal conjecture, but from the advantages of multi-agent systems, the structure of the human brain, and the insights from fine-tuning large language models, it can be seen that task partitioning and integration is a very important consideration when discussing intelligence.
 
 Below is the Chinese translation:
 
@@ -18,4 +18,4 @@ Below is the Chinese translation:
 
 再思考一下注意力机制。针对不同任务的数据，使用[LoRA](https://arxiv.org/abs/2106.09685)微调注意力层能够提高大语言模型在特定任务上的表现。
 
-基于这些现象，是否可以提出这样的猜想：构建通用人工智能（AGI）的一个关键考量应当是哪些任务应该整合到一起，而哪些任务应该通过协作方式处理，以便更好地专注于特定领域。当然，这只是个人的一些猜想，但从多代理系统的优势、人脑结构以及大语言模型微调的启示中可以看出，在谈论智能时，任务的拆分和整合是一个非常重要的考虑因素。
+基于这些现象，是否可以提出这样的猜想：构建通用人工智能（AGI）的一个关键考量应当是哪些任务应该整合到一起，而哪些任务应该通过分工协作方式处理，以便更好地专注于特定领域。当然，这只是个人的一些猜想，但从多代理系统的优势、人脑结构以及大语言模型微调的启示中可以看出，在谈论智能时，任务的拆分和整合是一个非常重要的考虑因素。
