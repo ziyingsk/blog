@@ -2,7 +2,7 @@
 title: "Task Integration in AI"
 date: 2024-06-09
 ---
-Recently, I've noticed an interesting phenomenon: [multi-agent systems](https://www.crewai.com/) are becoming increasingly popular. By having multiple agents collaborate, even if each agent uses the same algorithm, the overall effect can be better compared to a single agent. Let's delve into this phenomenon. Each agent has different task prompts, enabling them to focus on different information according to the task requirements, thereby achieving specific functions.
+Recently, I've noticed an interesting phenomenon: [Multi-agent systems](https://www.crewai.com/) are becoming increasingly popular. By having multiple agents collaborate, even if each agent uses the same algorithm, the overall effect can be better compared to a single agent. Let's delve into this phenomenon. Each agent has different task prompts, enabling them to focus on different information according to the task requirements, thereby achieving specific functions.
 
 If we carefully consider the structure of the human brain, we will find that the brain does not handle all tasks in a mixed manner but is divided into different parts, such as the motor center, language center, and visual center. The second law of thermodynamics tends to lead everything toward homogenization. In this context, the human brain has evolved a task-centered partitioning structure, and task-based multi-agent systems outperform single general agents.
 
